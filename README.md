@@ -1,1 +1,2 @@
 # ckd
+Check classes database.

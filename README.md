@@ -1,2 +1,2 @@
-# ckd
-Check classes database.
+# ceb
+Check elective basis.

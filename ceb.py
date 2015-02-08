@@ -54,9 +54,9 @@ if __name__ == "__main__":
               "",
               MESSAGE
               ])
-            server = smtplib.SMTP('smtp.gmail.com:587')
-            server.ehlo()
-            server.starttls()
-            server.login(user_info['email_address'], user_info['email_password'])
-            server.sendmail(user_info['email_address'], user_info['email_address'], msg)
-            server.quit()
+            # server = smtplib.SMTP('smtp.gmail.com:587')
+            # server.ehlo()
+            # server.starttls()
+            # server.login(user_info['email_address'], user_info['email_password'])
+            # server.sendmail(user_info['email_address'], user_info['email_address'], msg)
+            # server.quit()
